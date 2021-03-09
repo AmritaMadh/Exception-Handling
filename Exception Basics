@@ -1,0 +1,9 @@
+Try block
+Catch block
+Finally block
+Throw keyword
+
+	In the absence of an exception handler, the program will abort with an error message.
+	A try block can cause more than one exceptions. By having a catch block without brackets, you can handle them all within the same catch block.
+	To rethrow an exception, you can use the <throw> keyword.
+	User-defined catch block must appear before any generic catch block. Otherwise, the runtime will ignore it from execution.
